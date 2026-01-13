@@ -1,10 +1,7 @@
 # ⚙️ Consulta de CNPJ's na Receita Federal e Brasil API
 
 ## 📢 Sobre
-Este codigo atualiza o cadastro de um dataset de clientes de uma empresa. Ele consulta por API, no site da Receita Federal e do BrasilAPI os dados das colunas em brando no excel , com base no numero do CNPJ informado.
-
-OBS: A execução deste tipo de automação compromete a usuabilidade do computador. Então ele é recomendado para projetos de automação com baixa frequência no fluxo de trabalho.
-Ou que você tenha um computador exclusivo para rodar este programa e não comprometa as atividades de trabalho rotineiras.
+Este codigo atualiza o cadastro de um dataset de clientes de uma empresa. Ele consulta por API, no site da Receita Federal e do BrasilAPI os dados das colunas em brando no excel , com base no numero do CNPJ's informados.
 
 ## 🎯 Utilidade
 
