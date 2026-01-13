@@ -25,7 +25,7 @@ Esta parte de estrutura da planilha pode ser alterada, inserindo mais informaç�
 
 Consruir um excel com os CNPJ's que vcê quer consultar, criar as colunas e ajustar o codigo para que o nome seja correspondente.
 
-Considere que para cada consulta, o tempo estimado seja de 16 segundos, então se a base tem 50 linhas, multiplique por 16 para saber o tempo em segundos, depois divida por 60 para saber o tempo estimado em minutos que será necessário para o programa realizar todas as consultas.
+Considere que para cada consulta, o tempo estimado seja de 16 segundos, então se a base tem 50 linhas, multiplique por 16 para saber o tempo em segundos, depois divida por 60 para saber o tempo estimado em minutos, que será necessário para o programa realizar todas as consultas.
 
 ## 🌐 Colaborações
 
