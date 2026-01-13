@@ -11,7 +11,7 @@ Atualizar uma base de dados de clientes, verificar se o CNPJ esta ativo, atualiz
 
 RPA com Python e Visual Studo Code.
 
-Pacotes pandas, pyautogui, openpyxl requestes e datetime.
+Pacotes pandas, openpyxl requestes e datetime.
 
 ## 🧩 Modo de construção
 
