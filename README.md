@@ -16,7 +16,7 @@ Dados via Receita Federal (domínio público) e Brasil API.
 
 ## 🎯 Utilidade
 
-Atualizar uma base de dados de clientes, verificar se o CNPJ esta ativo, atualizr o endereço, telefone, e-mail e socios.
+Atualizar uma base de dados de clientes, verificar se o CNPJ esta ativo, atualizr o endereço, telefone, e-mail etc...
 
 ## ⚙️ Linguagens e ferramentas utilizadas
 
