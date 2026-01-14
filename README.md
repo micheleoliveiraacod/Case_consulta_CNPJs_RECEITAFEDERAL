@@ -3,6 +3,15 @@
 ## 📢 Sobre
 Este codigo atualiza o cadastro de um dataset de clientes de uma empresa. Ele consulta por API, no site da Receita Federal e do BrasilAPI os dados das colunas em brando no excel , com base no numero do CNPJ's informados.
 
+## 🚨 Uso Ético e Responsável
+
+**Este projeto é para prospecção legítima e segmentação estratégica apenas.**
+
+- ✅ **Permitido**: Análises de mercado, estudos de dados públicos CNPJ para MPEs.
+- ❌ **Proibido**: Envio de spam, e-mails não solicitados, telemarketing abusivo, violações LGPD ou Políticas GitHub.
+
+O uso indevido pode resultar em banimento do repo, e ou medidas legais para os usuários executores das ações inadequada, que deverão asumir a responsabilidade legal/jurídica. responsabilidade total. Dados via Receita Federal (domínio público) e Base dos Dados (CC-BY).[web:60][web:51]
+
 ## 🎯 Utilidade
 
 Atualizar uma base de dados de clientes, verificar se o CNPJ esta ativo, atualizr o endereço, telefone, e-mail e socios.
