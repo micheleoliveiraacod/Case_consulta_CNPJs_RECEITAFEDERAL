@@ -5,7 +5,7 @@ Este codigo atualiza o cadastro de um dataset de clientes de uma empresa. Ele co
 
 ## 🚨 Uso Ético e Responsável
 
-**Este projeto é para prospecção legítima e segmentação estratégica apenas.**
+Este projeto é para prospecção legítima, segmentação estratégica apenas e estudos pessoais, apenas.
 
 - ✅ **Permitido**: Análises de mercado, estudos de dados públicos CNPJ para MPEs.
 - ❌ **Proibido**: Envio de spam, e-mails não solicitados, telemarketing abusivo, violações LGPD ou Políticas GitHub.
