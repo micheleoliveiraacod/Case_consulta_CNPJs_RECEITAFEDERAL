@@ -5,7 +5,7 @@ Este codigo atualiza o cadastro de um dataset de clientes de uma empresa. Ele co
 
 ## ⚖️ Uso Ético e Responsável
 
-**Este projeto é para prospecção legítima, segmentação estratégica apenas e objetivos acadêmicos, apenas.**
+**Este projeto é para prospecção legítima, segmentação estratégica e objetivos acadêmicos, apenas.**
 
 - ✅ **Permitido**: Análises de mercado, estudos de dados públicos CNPJ para MPEs.
 - ❌ **Proibido**: Envio de spam, e-mails não solicitados, telemarketing abusivo, violações LGPD ou Políticas GitHub.
@@ -16,7 +16,7 @@ Dados via Receita Federal (domínio público) e Brasil API.
 
 ## 🎯 Utilidade
 
-Atualizar uma base de dados de clientes, verificar se o CNPJ esta ativo, atualizr o endereço, telefone, e-mail etc...
+Atualizar uma base de dados de clientes com CNPJ e Razão social, para verificar se o CNPJ esta ativo, atualizr o endereço, telefone, e-mail etc...
 
 ## ⚙️ Linguagens e ferramentas utilizadas
 
@@ -28,12 +28,12 @@ Pacotes pandas, openpyxl requestes e datetime.
 
 O codigo foi escrito e testado no vscode.
 
-A lista CNPJ's e razão social fio extraida de um ERP, e o restante ds informações ficaram em branco para serem consultadas.
+A lista CNPJ's e razão social foi extraida de um ERP, e o restante das informações ficaram em branco para serem consultadas.
 
-Esta parte de estrutura da planilha pode ser alterada, inserindo mais informações, porém você deve verificar a lista de dados que é possivel extrair destes sites antes, para não ter erro.
+A estrutura da planilha pode ser alterada, inserindo mais informações, porém você deve verificar a lista de dados da base da receita federal, se ela tem as informações que você precisa, para não ter erro. A partir disso, você altera o excel e o codigo.
 
 ## 📃 Instruções de uso
 
-Consruir um excel com os CNPJ's que vcê quer consultar, criar as colunas e ajustar o codigo para que o nome seja correspondente.
+Consruir um excel com os CNPJ's e Razão social que vcê quer consultar, criar as colunas e ajustar o codigo para que a referência seja correspondente.
 
 Considere que para cada consulta, o tempo estimado seja de 16 segundos, então se a base tem 50 linhas, multiplique por 16 para saber o tempo em segundos, depois divida por 60 para saber o tempo estimado em minutos, que será necessário para o programa realizar todas as consultas.
