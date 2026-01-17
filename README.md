@@ -13,13 +13,14 @@ Atualizar uma base de dados de clientes com CNPJ e Razão social, para verificar
 
 ## ⚙️ Linguagens e ferramentas utilizadas
 
-RPA com Python e Visual Studo Code.
-
-Pacotes pandas, openpyxl requestes e datetime.
+- Python
+- Visual Studo Code
+- Pandas
+- Openpyxl
+- Requestes
+- datetime
 
 ## 🧩 Modo de construção
-
-O codigo foi escrito e testado no vscode.
 
 A lista CNPJ's e razão social foi extraida de um ERP, e o restante das informações ficaram em branco para serem consultadas.
 
