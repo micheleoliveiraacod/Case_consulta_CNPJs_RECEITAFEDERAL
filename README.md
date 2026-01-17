@@ -14,10 +14,10 @@ Atualizar uma base de dados de clientes com CNPJ e Razão social, para verificar
 ## ⚙️ Linguagens e ferramentas utilizadas
 
 - Python
-- Visual Studo Code
+- Visual Studio Code
 - Pandas
 - Openpyxl
-- Requestes
+- Requests
 - datetime
 
 ## 🧩 Modo de construção
