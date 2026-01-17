@@ -36,3 +36,5 @@ Considere que para cada consulta, o tempo estimado seja de 16 segundos, então s
 
 - ✅ **Permitido**: Análises de mercado, estudos de dados públicos CNPJ para MPEs.
 - ❌ **Proibido**: Envio de spam, e-mails não solicitados, telemarketing abusivo, violações LGPD ou Políticas GitHub.
+
+O uso indevido pode resultar em banimento do repositorio, e ou medidas legais para os usuários executores das ações inadequadas, que deverão asumir a responsabilidade legal/jurídica total.
