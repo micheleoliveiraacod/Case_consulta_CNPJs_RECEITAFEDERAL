@@ -3,13 +3,6 @@
 ## 📢 Sobre
 Este codigo atualiza o cadastro de um dataset de clientes de uma empresa. Ele consulta por API, no site da Receita Federal e do BrasilAPI os dados das colunas em brando no excel , com base no numero do CNPJ's informados.
 
-## ⚖️ Uso Ético e Responsável
-
-**Este projeto é para prospecção legítima, segmentação estratégica e objetivos acadêmicos, apenas.**
-
-- ✅ **Permitido**: Análises de mercado, estudos de dados públicos CNPJ para MPEs.
-- ❌ **Proibido**: Envio de spam, e-mails não solicitados, telemarketing abusivo, violações LGPD ou Políticas GitHub.
-
 O uso indevido pode resultar em banimento do repo, e ou medidas legais para os usuários executores das ações inadequadas, que deverão asumir a responsabilidade legal/jurídica total.
 
 Dados via Receita Federal (domínio público) e Brasil API.
@@ -37,3 +30,8 @@ A estrutura da planilha pode ser alterada, inserindo mais informações, porém 
 Consruir um excel com os CNPJ's e Razão social que vcê quer consultar, criar as colunas e ajustar o codigo para que a referência seja correspondente.
 
 Considere que para cada consulta, o tempo estimado seja de 16 segundos, então se a base tem 50 linhas, multiplique por 16 para saber o tempo em segundos, depois divida por 60 para saber o tempo estimado em minutos, que será necessário para o programa realizar todas as consultas.
+
+**Este projeto é para prospecção legítima, segmentação estratégica e objetivos acadêmicos, apenas.**
+
+- ✅ **Permitido**: Análises de mercado, estudos de dados públicos CNPJ para MPEs.
+- ❌ **Proibido**: Envio de spam, e-mails não solicitados, telemarketing abusivo, violações LGPD ou Políticas GitHub.
